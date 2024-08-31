@@ -7,8 +7,8 @@ An Android app showing the Rick and Morty Characters by using the [Rick and Mort
 </p>
 
 <p align="center">
-  <a target="_blank" href="" alt="You tube video link">
-    <img width="220" height="90" src="https://drive.google.com/file/d/1QIChUcnq6wVVQbD26x1QGSufLfve8tMe/view?usp=drivesdk" alt="Direct download app"/>
+  <a target="_blank" href= "https://drive.google.com/file/d/1QIChUcnq6wVVQbD26x1QGSufLfve8tMe/view?usp=drivesdk" alt="Direct download app">
+    <img width="220" height="90" src="https://github.com/almasud/almasud.github.io/raw/master/projects/augmented_learn/images/direct_apk_download.png" alt="Direct download app"/>
   </a>
 </p>
 
