@@ -2,7 +2,7 @@
 An Android app showing the Rick and Morty Characters by using the [Rick and Morty API](https://rickandmortyapi.com/).
 
 <p align="center">
-  <a target="_blank" href="">
+  <a target="_blank" href="https://youtu.be/etJ1Er-AftI?si=jZsTv6R2_s8w2lIq" alt="You tube video link">
     <img width="220" height="90" src="https://drive.google.com/file/d/1QIChUcnq6wVVQbD26x1QGSufLfve8tMe/view?usp=drivesdk" alt="Direct download app"/>
   </a>
 </p>
