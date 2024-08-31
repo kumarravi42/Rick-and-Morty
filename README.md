@@ -1,4 +1,4 @@
-# Rick_and_Morty_characters
+# Rick_and_Morty_with_characters by RKSINGH
 An Android app showing the Rick and Morty Characters by using the [Rick and Morty API](https://rickandmortyapi.com/).
 <p align="center">
   <a href="https://youtu.be/etJ1Er-AftI?si=jZsTv6R2_s8w2lIq" target="_blank">
