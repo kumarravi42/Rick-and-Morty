@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+    <string name="character">Character</string>
+    <string name="character_details">Character Details</string>
+    <string name="avatar">Avatar</string>
+    <string name="status">Status</string>
+    <string name="alive">Alive</string>
+    <string name="about">About</string>
+    <string name="gender">Gender</string>
+    <string name="species">Species</string>
+    <string name="origin">Origin</string>
+    <string name="location">Location</string>
+    <string name="no_data_found">No data found!</string>
+    <string name="failed_to_load_characters_data">Faild to load characters data!</string>
+    <string name="could_not_connect_to_the_server">Couldn\'t connect to the server! Please check your internet connection and try again.</string>
+</resources>
